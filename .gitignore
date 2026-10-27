@@ -1,0 +1,32 @@
+# macOS / editors
+.DS_Store
+._*
+.idea/
+.vscode/
+*~
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Distribute the packaged application through GitHub Release assets.
+/distribution/*
+!/distribution/README.md
+
+# Keep experimental data, private projects, and generated results out of Git.
+*.epos
+*.pos
+*.rrng
+*.rng
+*.log
+*.bak
+*.ranges-backup.json
+/data/
+/results/
+/exports/
+.env
+.env.*

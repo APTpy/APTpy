@@ -1,0 +1,12 @@
+# Direct dependencies inferred from the supplied sources.
+# Versions are not pinned: this is not a tested environment lockfile.
+apav
+numpy
+pandas
+scipy
+periodictable
+plotly
+ipywidgets
+ipython
+voila
+ipykernel

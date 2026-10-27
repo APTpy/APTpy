@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use APTpy, please cite the toolbox release used and cite APAV separately."
+type: software
+title: "APTpy: A Graphical Python Toolbox for Atom-Probe Tomography Data Analysis"
+version: "1.0.0"
+repository-code: "https://github.com/APTpy/APTpy"
+authors:
+  - family-names: "Aliabad"
+    given-names: "Roohallah Surki"
+license: GPL-3.0-or-later
+abstract: >-
+  APTpy combines graphical candidate-ion exploration, range-file creation,
+  and isotope-constrained overlap analysis for atom-probe tomography mass
+  spectra. The toolbox is an independent companion project built on APAV.
+keywords:
+  - atom-probe tomography
+  - mass spectrum
+  - isotope analysis
+  - range files
+  - Python
+  - graphical user interface
